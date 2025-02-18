@@ -126,3 +126,4 @@ Exemples de navigateurs populaires :
   - **Edge** pour l'**intégration avec Windows**.  
   - **Safari** pour les utilisateurs d'**Apple**.  
   - **Opera** pour ses fonctionnalités intégrées (VPN, bloqueur de pubs).  
+  - [Le Laboratoire](./Docs.md)

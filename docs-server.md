@@ -69,3 +69,4 @@ Les serveurs ont de nombreuses utilisations dans divers domaines :
 ### **Conclusion**  
 
 Les serveurs sont indispensables à l'infrastructure numérique moderne. Ils garantissent l'accès aux informations, le stockage sécurisé des données et l'exécution efficace des applications. Le choix du type de serveur et de ses composants dépend des besoins spécifiques de l'utilisateur ou de l'organisation.
+- [Le Laboratoire](./Docs.md)

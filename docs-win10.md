@@ -4,6 +4,8 @@
 
 > Pas de manipulation particulière pour l'installation car l'option compte local est un choix encore disponible dans cette version.
 
+- [Le Laboratoire](./Docs.md)
+
 - [ ] Outils Utile (et gestion du dualboot si besoin ou utile)
 - [ ] Etape Installation sans connexion
 - [ ] Etape Installation avec connexion (suppréssion des merdes installer a cause de la connexion)

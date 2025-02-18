@@ -2,6 +2,8 @@
 
 ### **OPNSense**
 
+- [Le Laboratoire](./Docs.md)
+
 - [ ] Gestion OPNSense et différente régle
 - [ ] Installation et réglage option importante
 

@@ -90,4 +90,6 @@ Proxmox est très utilisé dans les environnements professionnels et à domicile
 
 ---
 
+- [Le Laboratoire](./Docs.md)
+
 Texte du chapitre ici...

@@ -2,4 +2,6 @@
 
 ### **7zip**
 
+- [Le Laboratoire](./Docs.md)
+
 Texte du chapitre ici...

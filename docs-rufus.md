@@ -2,4 +2,6 @@
 
 ### **Rufus**
 
+- [Le Laboratoire](./Docs.md)
+
 Texte du chapitre ici...

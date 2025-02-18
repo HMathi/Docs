@@ -89,4 +89,6 @@ HPE a développé plusieurs versions de l'iLO au fil du temps :
 1. Allumer le serveur
 2. 
 
+- [Le Laboratoire](./Docs.md)
+
 Texte du chapitre ici...

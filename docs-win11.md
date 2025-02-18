@@ -4,6 +4,8 @@
 
 >Pour une install sans connexion et avec un compte local ouvrir l'invite de commande avec `control + F10` suivie de la commande `$ oobe\bypassnro` cela aura pour effet de redémarrer l'installation depuis la première question mais rajoutera la petite option sans connection lors de la demande de connection a votre compte microsoft.
 
+- [Le Laboratoire](./Docs.md)
+
 - [ ] Outils Utile (et gestion du dualboot si besoin ou utile)
 - [ ] Etape Installation sans connexion
 - [ ] Etape Installation avec connexion (suppréssion des merdes installer a cause de la connexion)

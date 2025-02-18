@@ -118,4 +118,6 @@ Un **switch** (ou commutateur réseau) est un équipement **réseau** qui permet
 
 ---
 
+- [Le Laboratoire](./Docs.md)
+
 Texte du chapitre ici...

@@ -73,3 +73,4 @@ Il utilise pour cela une **table de routage**, qui contient les chemins possible
 ### **En résumé**  
 
 Un **routeur** est un appareil indispensable à la communication en réseau, que ce soit à la maison, en entreprise ou sur Internet. Il garantit une **connexion fluide, rapide et sécurisée** entre les appareils et permet de partager une connexion Internet de manière efficace.  
+- [Le Laboratoire](./Docs.md)

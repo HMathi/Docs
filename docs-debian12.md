@@ -3,9 +3,7 @@
 # **Debian 12**
 
 >Pour une bonne install et une connexions présente, prendre la netinst sinon DVD en hors réseaux mais il y aura quelque petit problème de paquet.
-
-- [ ] Gestion Paquet et Outils Utile
-- [X] Etape Installation et bonne pratique
+- [Le Laboratoire](./Docs.md)
 
 **Debian GNU/Linux installer menu (BIOS mode)**    
 1. Aller dans `Advanced options`

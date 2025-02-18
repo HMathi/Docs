@@ -92,3 +92,4 @@ Il agit comme un **intermédiaire** entre le matériel (hardware) et les logicie
 - Un **système d'exploitation** gère le matériel et fournit une interface pour utiliser des applications.  
 - **Windows** est convivial, compatible avec de nombreux logiciels commerciaux, mais payant et plus vulnérable aux virus.  
 - **Linux** est gratuit, sécurisé, hautement personnalisable, mais demande parfois plus de compétences techniques.  
+- [Le Laboratoire](./Docs.md)

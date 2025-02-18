@@ -2,4 +2,6 @@
 
 ### **Balena Etcher**
 
+- [Le Laboratoire](./Docs.md)
+
 Texte du chapitre ici...
