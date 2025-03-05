@@ -1,6 +1,8 @@
 ![body](https://banzaihobby.com/cdn/shop/files/Aoshima_Initial_D_Takumi_Fujiwara_AE86_Trueno_Project_D_Specification_-_BanzaiHobby-254450.jpg?v=1717061182&width=1100)
 
-## **Qu'est-ce qu'un Navigateur Internet ?**  
+# **Qu'est-ce qu'un Navigateur Internet ?** 
+
+- [Le Laboratoire](./Docs.md)
 
 Un **navigateur internet** (ou **navigateur web**) est un **logiciel** qui permet de :  
 - **Accéder** aux sites web et d'**afficher leur contenu** (textes, images, vidéos, animations).  
@@ -125,5 +127,7 @@ Exemples de navigateurs populaires :
   - **Firefox** pour la **confidentialité et l'open source**.  
   - **Edge** pour l'**intégration avec Windows**.  
   - **Safari** pour les utilisateurs d'**Apple**.  
-  - **Opera** pour ses fonctionnalités intégrées (VPN, bloqueur de pubs).  
-  - [Le Laboratoire](./Docs.md)
+  - **Opera** pour ses fonctionnalités intégrées (VPN, bloqueur de pubs).
+
+---
+- [Le Laboratoire](./Docs.md)

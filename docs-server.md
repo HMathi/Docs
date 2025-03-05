@@ -1,5 +1,7 @@
 ![body](https://banzaihobby.com/cdn/shop/files/Aoshima_Initial_D_Takumi_Fujiwara_AE86_Trueno_Project_D_Specification_-_BanzaiHobby-254450.jpg?v=1717061182&width=1100)
-## **Qu'est-ce qu'un serveur ?**  
+# **Qu'est-ce qu'un serveur ?**  
+
+- [Le Laboratoire](./Docs.md)
 
 Un **serveur** est un ordinateur puissant ou un logiciel dédié qui fournit des services, des ressources ou des données à d'autres ordinateurs appelés **clients** via un réseau (comme Internet ou un réseau local). Son rôle principal est de répondre aux demandes des clients et de leur fournir les informations demandées.  
 
@@ -69,4 +71,6 @@ Les serveurs ont de nombreuses utilisations dans divers domaines :
 ### **Conclusion**  
 
 Les serveurs sont indispensables à l'infrastructure numérique moderne. Ils garantissent l'accès aux informations, le stockage sécurisé des données et l'exécution efficace des applications. Le choix du type de serveur et de ses composants dépend des besoins spécifiques de l'utilisateur ou de l'organisation.
+
+---
 - [Le Laboratoire](./Docs.md)

@@ -14,7 +14,7 @@ Ci-dessous, tu trouveras la plupart des mises en place que j'ai réalisées au c
 Chaque installation sera détaillée au maximum, et une version traduite en anglais par mes soins sera également disponible.
 
 Chaque début de chapitre te fournira les connaissances nécessaires sur le sujet abordé.
-Cette documentation est disponible sur mon GitHub et sur mon site web.
+Cette documentation est disponible sur mon GitHub, mon site web et mon discord.
 Si tu souhaites proposer une modification ou donner ton avis, n'hésite pas à le faire sur ces plateformes.
 
 ### **Somaire**

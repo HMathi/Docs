@@ -1,5 +1,7 @@
 ![body](https://banzaihobby.com/cdn/shop/files/Aoshima_Initial_D_Takumi_Fujiwara_AE86_Trueno_Project_D_Specification_-_BanzaiHobby-254450.jpg?v=1717061182&width=1100)
-## **Qu'est-ce qu'un routeur ?**  
+# **Qu'est-ce qu'un routeur ?**  
+
+- [Le Laboratoire](./Docs.md)
 
 Un **routeur** est un appareil réseau qui permet de connecter plusieurs réseaux entre eux et de diriger le trafic de données entre ces réseaux. Il joue un rôle essentiel dans la communication sur Internet en déterminant le meilleur chemin pour transmettre les données d'un expéditeur à un destinataire.  
 
@@ -73,4 +75,6 @@ Il utilise pour cela une **table de routage**, qui contient les chemins possible
 ### **En résumé**  
 
 Un **routeur** est un appareil indispensable à la communication en réseau, que ce soit à la maison, en entreprise ou sur Internet. Il garantit une **connexion fluide, rapide et sécurisée** entre les appareils et permet de partager une connexion Internet de manière efficace.  
+
+---
 - [Le Laboratoire](./Docs.md)

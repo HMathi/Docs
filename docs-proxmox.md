@@ -1,5 +1,7 @@
 ![body](https://banzaihobby.com/cdn/shop/files/Aoshima_Initial_D_Takumi_Fujiwara_AE86_Trueno_Project_D_Specification_-_BanzaiHobby-254450.jpg?v=1717061182&width=1100)
-## **Qu'est-ce que Proxmox ?**  
+# **Qu'est-ce que Proxmox ?**  
+
+- [Le Laboratoire](./Docs.md)
 
 **Proxmox** est une **plateforme de virtualisation open source** qui permet de :  
 - **Créer et gérer des machines virtuelles (VM)** et des **containers LXC**.  
@@ -89,7 +91,6 @@ Proxmox est très utilisé dans les environnements professionnels et à domicile
 - Avec des fonctionnalités de **haute disponibilité**, de **sauvegarde intégrée** et un **large choix de stockage**, Proxmox est une **alternative sérieuse aux solutions payantes** comme **VMware** ou **Hyper-V**.
 
 ---
-
 - [Le Laboratoire](./Docs.md)
 
 Texte du chapitre ici...

@@ -1,6 +1,8 @@
 ![body](https://banzaihobby.com/cdn/shop/files/Aoshima_Initial_D_Takumi_Fujiwara_AE86_Trueno_Project_D_Specification_-_BanzaiHobby-254450.jpg?v=1717061182&width=1100)
 
-## **Qu'est-ce qu'un Switch ?**  
+# **Qu'est-ce qu'un Switch ?**  
+
+- [Le Laboratoire](./Docs.md)
 
 Un **switch** (ou commutateur réseau) est un équipement **réseau** qui permet de :  
 - **Connecter plusieurs appareils** (ordinateurs, serveurs, imprimantes, caméras IP) au sein d'un réseau local (**LAN**).  
@@ -117,7 +119,6 @@ Un **switch** (ou commutateur réseau) est un équipement **réseau** qui permet
 - **Les switchs manageables** sont recommandés pour les réseaux professionnels nécessitant **sécurité**, **performance** et **flexibilité**.  
 
 ---
-
 - [Le Laboratoire](./Docs.md)
 
 Texte du chapitre ici...
