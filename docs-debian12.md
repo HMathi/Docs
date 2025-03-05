@@ -19,7 +19,7 @@
 ![3](./CC/Debian12/localechooser_shortlist_0.png)
 ![4](./CC/Debian12/localechooser_preferred-locale_0.png)    
 > **⚠️ Pas de case à cocher sur cette page**    
-![5](./Debian12/localechooser_supported-locales_0.png)
+![5](./CC/Debian12/localechooser_supported-locales_0.png)
 
 ---
 
