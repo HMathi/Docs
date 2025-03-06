@@ -4,7 +4,8 @@
 
 - [Le Laboratoire](./Docs.md)
 
-> Si vous en avez la possibilité, je vous conseille de faire une installation avec un compte local et, par la suite, de vous connecter à Internet. Cela vous permet, dans un premier temps, d’installer votre poste sans toutes les applications de Microsoft et autres qui collectent vos données. Malheureusement, sous Windows 11, le bouton "compte local" n'existe plus, mais une solution existe et vous sera donnée au moment où vous devrez le faire. Il vous suffit donc de suivre les étapes suivantes.
+> Si vous en avez la possibilité, je vous conseille de faire une installation avec un compte local et, par la suite, de vous connecter à Internet. Cela vous permet, dans un premier temps, d’installer votre poste sans toutes les applications de Microsoft et autres qui collectent vos données. Malheureusement, sous Windows 11, le bouton "compte local" n'existe plus, mais une solution existe et vous sera donnée au moment où vous devrez le faire. Il vous suffit donc de suivre les étapes suivantes.       
+Installation réalisée sous Windows 11 version 22H2, et non en 24H2. Si possible, privilégiez la 22H2. (Si besoin lien téléchargement : [Lien](https://lecrabeinfo.net/telecharger/windows-11-22h2-x64/))
 
 ---
 
