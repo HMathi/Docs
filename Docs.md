@@ -16,34 +16,34 @@ Si tu souhaites proposer une modification ou donner ton avis, n'hésite pas à l
 ### **Somaire**
 
 1. **Les Machines d'un réseaux**        
-1.1 [Qu'est ce qu'un serveur ?](./docs-server.md)      
-~ 1.1.1 [Qu'est ce que le RAID ?](./docs-raid.md)          
-~ 1.1.2 [Qu'est ce que l'ILO ?](./docs-ilo.md)     
-~ 1.1.3 [Qu'est ce que Proxmox ?](./docs-proxmox.md)        
-1.2 [Qu'est ce qu'un routeur ?](./docs-routeur.md)      
-~ 1.2.1 [OPNSense](./docs-opnsense.md)      
-1.3 [Qu'est ce qu'un switch ?](./docs-switch.md)
+1.1 [Qu'est ce qu'un serveur ?](./Les%20Machines%20d'un%20réseaux/docs-server.md)      
+~ 1.1.1 [Qu'est ce que le RAID ?](./Les%20Machines%20d'un%20réseaux/docs-raid.md)          
+~ 1.1.2 [Qu'est ce que l'ILO ?](./Les%20Machines%20d'un%20réseaux/docs-ilo.md)     
+~ 1.1.3 [Qu'est ce que Proxmox ?](./Les%20Machines%20d'un%20réseaux/docs-proxmox.md)        
+1.2 [Qu'est ce qu'un routeur ?](./Les%20Machines%20d'un%20réseaux/docs-routeur.md)      
+~ 1.2.1 [OPNSense](./Les%20Machines%20d'un%20réseaux/docs-opnsense.md)      
+1.3 [Qu'est ce qu'un switch ?](./Les%20Machines%20d'un%20réseaux/docs-switch.md)
 
 2. **Ordinateur et OS**     
-2.1 [Qu'est ce qu'un ordinateur ?](./docs-ordinateur.md)         
-2.2 [Qu'est ce qu'un dual boot ?](./docs-dualboot.md)    
-2.3 [Debian 12](./docs-debian12.md)     
-2.4 [Windows 10](./docs-win10.md)       
-2.5 [Windows 11](./docs-win11.md)       
-2.6 [Atlas OS](./docs-atlasos.md)       
-2.7 [Ubuntu](./docs-ubuntu.md)
+2.1 [Qu'est ce qu'un ordinateur ?](./Ordinateur%20et%20OS/docs-ordinateur.md)         
+2.2 [Qu'est ce qu'un dual boot ?](./Ordinateur%20et%20OS/docs-dualboot.md)    
+2.3 [Debian 12](./Ordinateur%20et%20OS/docs-debian12.md)     
+2.4 [Windows 10](./Ordinateur%20et%20OS/docs-win10.md)       
+2.5 [Windows 11](./Ordinateur%20et%20OS/docs-win11.md)       
+2.6 [Atlas OS](./Ordinateur%20et%20OS/docs-atlasos.md)       
+2.7 [Ubuntu](./Ordinateur%20et%20OS/docs-ubuntu.md)
 
 3. **Outils**       
-3.1 [Ventoy](./docs-ventoy.md)      
-3.2 [Rufus](./docs-rufus.md)        
-3.3 [Balena Etcher](./docs-balenaetcher.md)
+3.1 [Ventoy](./Outils/docs-ventoy.md)      
+3.2 [Rufus](./Outils/docs-rufus.md)        
+3.3 [Balena Etcher](./Outils/docs-balenaetcher.md)
 
 4. **Applications Utiles**  
-4.1 [Qu'est ce qu'un navigateur internet ?](./docs-browner.md)     
-4.2 [Libre Office](./docs-libreoffice.md)       
-4.3 [Keepass](./docs-keepass.md)        
-4.4 [Thunderbird](./docs-thunderbird.md)        
-4.5 [7zip](./docs-7zip.md)
+4.1 [Qu'est ce qu'un navigateur internet ?](./Applications%20Utiles/docs-browner.md)     
+4.2 [Libre Office](./Applications%20Utiles/docs-libreoffice.md)       
+4.3 [Keepass](./Applications%20Utiles/docs-keepass.md)        
+4.4 [Thunderbird](./Applications%20Utiles/docs-thunderbird.md)        
+4.5 [7zip](./Applications%20Utiles/docs-7zip.md)
 
 5. [Autres](#autres)
 
