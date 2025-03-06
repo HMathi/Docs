@@ -46,7 +46,7 @@ Si tu souhaites proposer une modification ou donner ton avis, n'hésite pas à l
 
 9. [Libre Office](./docs-libreoffice.md)
 
-10. [Keepass 2](./docs-keepass.md)
+10. [Keepass](./docs-keepass.md)
 
 11. [Thunderbird](./docs-thunderbird.md)
 
