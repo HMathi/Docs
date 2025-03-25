@@ -2,7 +2,7 @@
 
 # **Keepass**
 
-- [Le Laboratoire](/Docs.md)
+- [Le Laboratoire 🔬](/Docs.md)
 
 - [ ] Install de Keepass 2
 - [ ] Install de KeepassXC

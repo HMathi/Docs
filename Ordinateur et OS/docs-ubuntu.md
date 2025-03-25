@@ -2,7 +2,7 @@
 
 # **Ubuntu**
 
-- [Le Laboratoire](/Docs.md)
+- [Le Laboratoire 🔬](/Docs.md)
 
 - [ ] Gestion Paquet et Outils Utile
 - [ ] Etape Installation et bonne pratique

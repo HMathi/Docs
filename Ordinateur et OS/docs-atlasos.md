@@ -2,7 +2,7 @@
 
 # **Atlas OS**
 
-- [Le Laboratoire](/Docs.md)
+- [Le Laboratoire 🔬](/Docs.md)
 
 - [ ] Etape d'installation Windows 10
 - [ ] Etape d'installation Windows 11
