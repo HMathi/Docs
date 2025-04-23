@@ -38,7 +38,7 @@ Voici les principaux dossiers présents dans ce dépôt :
 - 🧠 **Les Machines d’un Réseau** : résumé des rôles et interactions dans une infra réseau
 - 💻 **Ordinateur & OS** : infos sur les composants, Windows, Linux, les commandes utiles...
 - 🧰 **Outils** : scripts, commandes, astuces d’administration
-- 🖼️ **Ressources (CC)** : captures d’écran et visuels issus des docs étudiés
+- 🖼️ **Ressources** : captures d’écran et visuels issus des docs étudiés
 - 📝 **Docs.md** : le cœur du projet avec mes fiches et résumés principaux
 
 ---
