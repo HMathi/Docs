@@ -71,38 +71,50 @@ Si ton besoin est de **gérer plusieurs ISO** sur une seule clé USB, alors **Ve
 ### 📜 **Installation :**
 
 > **Etape 1** : Lancer le `.exe` télécharger précédemment.      
-![](/CC/Rufus/1.png)        
-![](/CC/Rufus/2.png)        
-![](/CC/Rufus/3.png)        
+![](/Ressources/Rufus/1.png)        
+![](/Ressources/Rufus/2.png)        
+![](/Ressources/Rufus/3.png)
+
+---
+
 > **Etape 2** : Choisissez la clé qui vous servira à utiliser l'ISO téléchargés.        
-![](/CC/Rufus/4.png)        
+![](/Ressources/Rufus/4.png)
+
+---
+
 > **Etape 3** : Choisir l'ISO que vous souhaitez installer (clicker sur `Disk or ISO image`).       
-![](/CC/Rufus/5.png)        
-![](/CC/Rufus/6.png)        
-![](/CC/Rufus/7.png)        
+![](/Ressources/Rufus/5.png)        
+![](/Ressources/Rufus/6.png)        
+![](/Ressources/Rufus/7.png)
+
+---
+
 > **Etape 4** :Démonstration des différents menus (laissés par défaut).     
-![](/CC/Rufus/8.png)        
-![](/CC/Rufus/9.png)        
-![](/CC/Rufus/10.png)       
-![](/CC/Rufus/11.png)       
-![](/CC/Rufus/12.png)       
-![](/CC/Rufus/13.png)       
-![](/CC/Rufus/14.png)       
+![](/Ressources/Rufus/8.png)        
+![](/Ressources/Rufus/9.png)        
+![](/Ressources/Rufus/10.png)       
+![](/Ressources/Rufus/11.png)       
+![](/Ressources/Rufus/12.png)       
+![](/Ressources/Rufus/13.png)       
+![](/Ressources/Rufus/14.png)
+
+---
+
 > **Etape 5** : Lancer l'installation.      
-![](/CC/Rufus/15.png)       
+![](/Ressources/Rufus/15.png)       
 > *Menu ci-dessous dû au choix de l'ISO Windows.*       
-![](/CC/Rufus/16.png)       
-![](/CC/Rufus/17.png)       
+![](/Ressources/Rufus/16.png)       
+![](/Ressources/Rufus/17.png)       
 > *Check de vérification dû au formatage de votre clé USB.*     
-![](/CC/Rufus/18.png)       
+![](/Ressources/Rufus/18.png)       
 > *Images de l'avancement de l'installation.*       
-![](/CC/Rufus/19.png)       
-![](/CC/Rufus/20.png)       
-![](/CC/Rufus/21.png)       
-![](/CC/Rufus/22.png)       
+![](/Ressources/Rufus/19.png)       
+![](/Ressources/Rufus/20.png)       
+![](/Ressources/Rufus/21.png)       
+![](/Ressources/Rufus/22.png)       
 > *Voici à quoi ressemble votre clé suite à cette manipulation.*        
-![](/CC/Rufus/23.png)       
-![](/CC/Rufus/24.png)       
+![](/Ressources/Rufus/23.png)       
+![](/Ressources/Rufus/24.png)       
 
 ---
 - [Le Laboratoire Informatique🔬](/Docs.md)

@@ -1,7 +1,10 @@
-![body](https://banzaihobby.com/cdn/shop/files/Aoshima_Initial_D_Takumi_Fujiwara_AE86_Trueno_Project_D_Specification_-_BanzaiHobby-254450.jpg?v=1717061182&width=1100)
 # 🖥️ Qu'est-ce que l'iLO ? 
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" />
+  <img src="https://img.shields.io/badge/langue-français-blue.svg" alt="Langue: Français" />
+</p>
 
-- [Le Laboratoire 🔬](/Docs.md)
+- [Le Laboratoire Informatique🔬](/Docs.md)
 
 L'**iLO (Integrated Lights-Out)** est une technologie de gestion à distance des serveurs développée par **Hewlett Packard Enterprise (HPE)**.  
 Elle permet aux administrateurs système de :  
@@ -97,6 +100,6 @@ HPE a développé plusieurs versions de l'iLO au fil du temps :
 
 4. 
 
-- [Le Laboratoire 🔬](/Docs.md)
+- [Le Laboratoire Informatique🔬](/Docs.md)
 
 Texte du chapitre ici...

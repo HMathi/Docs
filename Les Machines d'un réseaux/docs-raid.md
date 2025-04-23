@@ -1,7 +1,10 @@
-![body](https://banzaihobby.com/cdn/shop/files/Aoshima_Initial_D_Takumi_Fujiwara_AE86_Trueno_Project_D_Specification_-_BanzaiHobby-254450.jpg?v=1717061182&width=1100)
 # 💾 **Qu'est-ce que le RAID ?**  
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" />
+  <img src="https://img.shields.io/badge/langue-français-blue.svg" alt="Langue: Français" />
+</p>
 
-- [Le Laboratoire 🔬](/Docs.md)
+- [Le Laboratoire Informatique🔬](/Docs.md)
 
 Le **RAID (Redundant Array of Independent Disks)** est une technologie qui permet de combiner plusieurs disques durs ou SSD pour :  
 - **Améliorer les performances** (vitesse de lecture et/ou d'écriture)  
@@ -102,7 +105,7 @@ Il existe plusieurs niveaux de RAID, chacun ayant ses avantages et ses inconvén
 - **RAID 10 🔄** pour les performances et la redondance maximales, mais à un coût élevé en disques.
 
 ---
-- [Le Laboratoire 🔬](/Docs.md)
+- [Le Laboratoire Informatique🔬](/Docs.md)
 
 ### 🛠️ **Montage Hardware**
 

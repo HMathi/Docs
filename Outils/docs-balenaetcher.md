@@ -73,28 +73,37 @@ Si tu veux **gérer plusieurs systèmes sur une seule clé USB**, **Ventoy** est
 ### 📜 **Installation :**
 
 > **Etape 1** : Lancer le `.exe` télécharger précédemment (cela installera par la même occasion une application sur votre ordinateur).      
-![](/CC/Balena%20Etcher/1.png)      
-![](/CC/Balena%20Etcher/2.png)      
+![](/Ressources/Balena%20Etcher/1.png)      
+![](/Ressources/Balena%20Etcher/2.png)      
 > *Menu des paramètres*     
-![](/CC/Balena%20Etcher/3.png)      
+![](/Ressources/Balena%20Etcher/3.png)
+
+---
+
 > **Etape 2** : Choisir l'ISO que vous souhaitez installer (clicker sur `Flash from file`).     
-![](/CC/Balena%20Etcher/4.png)      
-![](/CC/Balena%20Etcher/5.png)      
+![](/Ressources/Balena%20Etcher/4.png)      
+![](/Ressources/Balena%20Etcher/5.png)      
 > *Petit message dû au choix de l'ISO Windows*      
-![](/CC/Balena%20Etcher/6.png)      
-![](/CC/Balena%20Etcher/7.png)      
+![](/Ressources/Balena%20Etcher/6.png)      
+![](/Ressources/Balena%20Etcher/7.png)
+
+---
+
 > **Etape 3** : Choisissez la clé qui vous servira à utiliser l'ISO téléchargés.        
-![](/CC/Balena%20Etcher/8.png)      
-![](/CC/Balena%20Etcher/9.png)      
-![](/CC/Balena%20Etcher/10.png)     
+![](/Ressources/Balena%20Etcher/8.png)      
+![](/Ressources/Balena%20Etcher/9.png)      
+![](/Ressources/Balena%20Etcher/10.png)
+
+---
+
 > **Etape 4** : Lancer l'installation.      
-![](/CC/Balena%20Etcher/11.png)     
-![](/CC/Balena%20Etcher/12.png)     
-![](/CC/Balena%20Etcher/13.png)     
+![](/Ressources/Balena%20Etcher/11.png)     
+![](/Ressources/Balena%20Etcher/12.png)     
+![](/Ressources/Balena%20Etcher/13.png)     
 > *Images de l'avancement de l'installation.*       
-![](/CC/Balena%20Etcher/14.png)     
-![](/CC/Balena%20Etcher/15.png)     
-![](/CC/Balena%20Etcher/16.png)     
+![](/Ressources/Balena%20Etcher/14.png)     
+![](/Ressources/Balena%20Etcher/15.png)     
+![](/Ressources/Balena%20Etcher/16.png)     
 
 ---
 - [Le Laboratoire Informatique🔬](/Docs.md)

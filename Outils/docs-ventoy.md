@@ -96,25 +96,43 @@ Si tu veux un outil plus simple sans installation initiale, il existe des altern
 ### 📜 **Installation :**
 
 > **Etape 1** : Unzip le fichier pour pouvoir lancer l'application.     
-![](/CC/Ventoy/1.png)      
+![](/Ressources/Ventoy/1.png)
+
+---
+
 > **Etape 2** : Lancer `Ventoy2Disk.exe`.    
-![](/CC/Ventoy/2.png)      
-![](/CC/Ventoy/3.png)      
+![](/Ressources/Ventoy/2.png)      
+![](/Ressources/Ventoy/3.png)
+
+---
+
 > **Etape 3** : Choisissez la clé qui vous servira à stocker et utiliser les différents ISO téléchargés.    
-![](/CC/Ventoy/4.png)      
-![](/CC/Ventoy/5.png)      
+![](/Ressources/Ventoy/4.png)      
+![](/Ressources/Ventoy/5.png)
+
+---
+
 > **Etape 4** : Formatage de la clé avec un double check.      
-![](/CC/Ventoy/6.png)      
-![](/CC/Ventoy/7.png)      
+![](/Ressources/Ventoy/6.png)      
+![](/Ressources/Ventoy/7.png)
+
+---
+
 > **Etape 5** : Lancement de l'installation.    
-![](/CC/Ventoy/8.png)      
+![](/Ressources/Ventoy/8.png)
+
+---
+
 > **Etape 6** : C'est fini, votre clé est utilisable.    
-![](/CC/Ventoy/9.png)      
+![](/Ressources/Ventoy/9.png)
+
+---
+
 > **Bonus** : Voici les paramètres et le choix de la langue.      
-![](/CC/Ventoy/10.png)     
-![](/CC/Ventoy/11.png)     
+![](/Ressources/Ventoy/10.png)     
+![](/Ressources/Ventoy/11.png)     
 > *Voici à quoi ressemble votre clé suite à la manipulation.*     
-![](/CC/Ventoy/12.png)     
+![](/Ressources/Ventoy/12.png)     
 
 ---
 - [Le Laboratoire Informatique🔬](/Docs.md)

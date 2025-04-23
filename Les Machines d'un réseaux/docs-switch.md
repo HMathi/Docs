@@ -1,8 +1,10 @@
-![body](https://banzaihobby.com/cdn/shop/files/Aoshima_Initial_D_Takumi_Fujiwara_AE86_Trueno_Project_D_Specification_-_BanzaiHobby-254450.jpg?v=1717061182&width=1100)
-
 # 🔌 **Qu'est-ce qu'un Switch ?**  
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" />
+  <img src="https://img.shields.io/badge/langue-français-blue.svg" alt="Langue: Français" />
+</p>
 
-- [Le Laboratoire 🔬](/Docs.md)
+- [Le Laboratoire Informatique🔬](/Docs.md)
 
 Un **switch** (ou commutateur réseau) est un équipement **réseau** qui permet de :  
 - 🔗 **Connecter plusieurs appareils** (ordinateurs, serveurs, imprimantes, caméras IP) au sein d'un réseau local (**LAN**).  
@@ -119,6 +121,6 @@ Un **switch** (ou commutateur réseau) est un équipement **réseau** qui permet
 - **Les switchs manageables** sont recommandés pour les réseaux professionnels nécessitant **sécurité**, **performance** et **flexibilité**.  
 
 ---
-- [Le Laboratoire 🔬](/Docs.md)
+- [Le Laboratoire Informatique🔬](/Docs.md)
 
 Texte du chapitre ici...

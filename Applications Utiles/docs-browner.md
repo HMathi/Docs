@@ -1,8 +1,10 @@
-![body](https://banzaihobby.com/cdn/shop/files/Aoshima_Initial_D_Takumi_Fujiwara_AE86_Trueno_Project_D_Specification_-_BanzaiHobby-254450.jpg?v=1717061182&width=1100)
-
 # 🌐 **Qu'est-ce qu'un Navigateur Internet ?** 
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" />
+  <img src="https://img.shields.io/badge/langue-français-blue.svg" alt="Langue: Français" />
+</p>
 
-- [Le Laboratoire 🔬](/Docs.md)
+- [Le Laboratoire Informatique🔬](/Docs.md)
 
 Un **navigateur internet** (ou **navigateur web**) est un **logiciel** qui permet de :  
 - ✅ **Accéder** aux sites web et d'**afficher leur contenu** (textes, images, vidéos, animations).  
@@ -130,4 +132,4 @@ Un **navigateur internet** (ou **navigateur web**) est un **logiciel** qui perme
   - 🔴 **Opera** pour ses fonctionnalités intégrées (VPN, bloqueur de pubs).
 
 ---
-- [Le Laboratoire 🔬](/Docs.md)
+- [Le Laboratoire Informatique🔬](/Docs.md)
