@@ -1,8 +1,12 @@
-![body](https://banzaihobby.com/cdn/shop/files/Aoshima_Initial_D_Takumi_Fujiwara_AE86_Trueno_Project_D_Specification_-_BanzaiHobby-254450.jpg?v=1717061182&width=1100)
-
 # 🔑 Rufus
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" />
+  <img src="https://img.shields.io/github/stars/HMathi/Docs?style=social" alt="GitHub stars" />
+  <img src="https://img.shields.io/badge/langue-français-blue.svg" alt="Langue: Français" />
+  <img src="https://img.shields.io/github/repo-size/HMathi/Docs" alt="Repo Size" />
+</p>
 
-- [Le Laboratoire 🔬](/Docs.md)
+- [Le Laboratoire Informatique🔬](/Docs.md)
 
 📥 **Lien de téléchargement :**
 - [Lien](https://rufus.ie/fr/) - site source
@@ -103,4 +107,4 @@ Si ton besoin est de **gérer plusieurs ISO** sur une seule clé USB, alors **Ve
 ![](/CC/Rufus/24.png)       
 
 ---
-- [Le Laboratoire 🔬](/Docs.md)
+- [Le Laboratoire Informatique🔬](/Docs.md)
