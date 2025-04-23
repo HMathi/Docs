@@ -1,4 +1,4 @@
-# 📚 HMathi/Docs — Notes & Ressources Informatiques
+# 📚 HMathi/Docs-FR — Notes & Ressources Informatiques
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" />
   <img src="https://img.shields.io/github/stars/HMathi/Docs?style=social" alt="GitHub stars" />
