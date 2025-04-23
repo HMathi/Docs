@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/repo-size/HMathi/Docs" alt="Repo Size" />
 </p>
 
-- [Le Laboratoire 🔬](/Docs.md)
+- [Le Laboratoire Informatique🔬](/Docs.md)
 
 📥 **Lien de téléchargement :**
 - [Lien](https://etcher.balena.io/) - site source
@@ -99,4 +99,4 @@ Si tu veux **gérer plusieurs systèmes sur une seule clé USB**, **Ventoy** est
 ![](/CC/Balena%20Etcher/16.png)     
 
 ---
-- [Le Laboratoire 🔬](/Docs.md)
+- [Le Laboratoire Informatique🔬](/Docs.md)
