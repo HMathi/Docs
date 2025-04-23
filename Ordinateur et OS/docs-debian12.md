@@ -1,8 +1,10 @@
-![body](https://banzaihobby.com/cdn/shop/files/Aoshima_Initial_D_Takumi_Fujiwara_AE86_Trueno_Project_D_Specification_-_BanzaiHobby-254450.jpg?v=1717061182&width=1100)
-
 # **Debian 12**
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" />
+  <img src="https://img.shields.io/badge/langue-français-blue.svg" alt="Langue: Français" />
+</p>
 
-- [Le Laboratoire 🔬](/Docs.md)
+- [Le Laboratoire Informatique🔬](/Docs.md)
 
 >Pour une bonne install et une connexions présente, prendre la netinst sinon DVD en hors réseaux mais il y aura quelque petit problème de paquet.
 
@@ -238,4 +240,4 @@ J'ai également coché le serveur SSH, car il vous permet de vous connecter à v
 ![72](/CC/Debian12/finish-install_reboot_in_progress_0.png)    
 
 ---
-- [Le Laboratoire 🔬](/Docs.md)
+- [Le Laboratoire Informatique🔬](/Docs.md)
