@@ -1,4 +1,4 @@
-# **Debian 12**
+# **🐧 Debian 12**
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" />
   <img src="https://img.shields.io/badge/langue-français-blue.svg" alt="Langue: Français" />
