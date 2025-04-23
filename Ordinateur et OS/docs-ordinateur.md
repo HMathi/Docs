@@ -1,8 +1,10 @@
-![body](https://banzaihobby.com/cdn/shop/files/Aoshima_Initial_D_Takumi_Fujiwara_AE86_Trueno_Project_D_Specification_-_BanzaiHobby-254450.jpg?v=1717061182&width=1100)
-
 # 💻 Qu'est-ce qu'un ordinateur ? 
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" />
+  <img src="https://img.shields.io/badge/langue-français-blue.svg" alt="Langue: Français" />
+</p>
 
-- [Le Laboratoire 🔬](/Docs.md)
+- [Le Laboratoire Informatique🔬](/Docs.md)
 
 Un **ordinateur** est une machine électronique capable de traiter, stocker et exécuter des instructions sous forme de programmes. Il permet de réaliser diverses tâches, comme naviguer sur Internet, écrire des documents, jouer à des jeux, gérer des bases de données, ou encore programmer.  
 
@@ -96,4 +98,4 @@ Il agit comme un **intermédiaire** entre le matériel (hardware) et les logicie
 - **Linux 🐧** est gratuit, sécurisé, hautement personnalisable, mais demande parfois plus de compétences techniques.  
 
 ---
-- [Le Laboratoire 🔬](/Docs.md)
+- [Le Laboratoire Informatique🔬](/Docs.md)
