@@ -1,4 +1,10 @@
 # 📚 HMathi/Docs — Notes & Ressources Informatiques
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" />
+  <img src="https://img.shields.io/github/stars/HMathi/Docs?style=social" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/languages/top/HMathi/Docs" alt="Top Language" />
+  <img src="https://img.shields.io/github/repo-size/HMathi/Docs" alt="Repo Size" />
+</p>
 
 Bienvenue sur mon dépôt GitHub dédié à mes 📖 **documents personnels en informatique** !  
 Tu trouveras ici des fiches, des résumés, des outils pratiques et des captures utiles pour t'aider à mieux comprendre l’univers numérique 🌐.  
