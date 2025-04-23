@@ -1,8 +1,10 @@
-![body](https://banzaihobby.com/cdn/shop/files/Aoshima_Initial_D_Takumi_Fujiwara_AE86_Trueno_Project_D_Specification_-_BanzaiHobby-254450.jpg?v=1717061182&width=1100)
-
 # 🔄 Qu'est-ce qu'un dual boot ?
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" />
+  <img src="https://img.shields.io/badge/langue-français-blue.svg" alt="Langue: Français" />
+</p>
 
-- [Le Laboratoire 🔬](/Docs.md)
+- [Le Laboratoire Informatique🔬](/Docs.md)
 
 📌 Le **dual boot** (ou double démarrage) est une configuration où deux systèmes d'exploitation différents sont installés sur un même ordinateur.     
 💻 Lors de l'allumage de l'ordinateur, tu choisis lequel des deux systèmes tu souhaites utiliser.
@@ -84,4 +86,4 @@ Un **dual boot** est une excellente solution si tu veux utiliser deux systèmes 
 Si tu souhaites garder Windows pour tes jeux et applications, mais utiliser Linux pour sa flexibilité et ses outils open source, alors le **dual boot** est fait pour toi !
 
 ---
-- [Le Laboratoire 🔬](/Docs.md)
+- [Le Laboratoire Informatique🔬](/Docs.md)
