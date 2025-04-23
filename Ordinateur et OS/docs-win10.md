@@ -1,8 +1,10 @@
-![body](https://banzaihobby.com/cdn/shop/files/Aoshima_Initial_D_Takumi_Fujiwara_AE86_Trueno_Project_D_Specification_-_BanzaiHobby-254450.jpg?v=1717061182&width=1100)
-
 # 🪟 **Windows 10**
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" />
+  <img src="https://img.shields.io/badge/langue-français-blue.svg" alt="Langue: Français" />
+</p>
 
-- [Le Laboratoire 🔬](/Docs.md)
+- [Le Laboratoire Informatique🔬](/Docs.md)
 
 > Si vous en avez la possibilité, je vous conseille de faire une installation avec un compte local et, par la suite, de vous connecter à Internet. Cela vous permet, dans un premier temps, d’installer votre poste sans toutes les applications de Microsoft et autres qui prennent vos données. Par chance, sous Windows 10, la fonction "compte local" existe encore sous forme de bouton, donc il vous suffira de suivre les étapes suivantes.
 
@@ -79,4 +81,4 @@ Cette option va nous permettre d'avoir le contrôle total sur nos partitions de 
 ![](/CC/Win10/35.png)       
 
 ---
-- [Le Laboratoire 🔬](/Docs.md)
+- [Le Laboratoire Informatique🔬](/Docs.md)
