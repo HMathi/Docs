@@ -1,8 +1,10 @@
-![body](https://banzaihobby.com/cdn/shop/files/Aoshima_Initial_D_Takumi_Fujiwara_AE86_Trueno_Project_D_Specification_-_BanzaiHobby-254450.jpg?v=1717061182&width=1100)
-
 # 🪟 **Windows 11**
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" />
+  <img src="https://img.shields.io/badge/langue-français-blue.svg" alt="Langue: Français" />
+</p>
 
-- [Le Laboratoire 🔬](/Docs.md)
+- [Le Laboratoire Informatique🔬](/Docs.md)
 
 > Si vous en avez la possibilité, je vous conseille de faire une installation avec un compte local et, par la suite, de vous connecter à Internet. Cela vous permet, dans un premier temps, d’installer votre poste sans toutes les applications de Microsoft et autres qui collectent vos données. Malheureusement, sous Windows 11, le bouton "compte local" n'existe plus, mais une solution existe et vous sera donnée au moment où vous devrez le faire. Il vous suffit donc de suivre les étapes suivantes.       
 Installation réalisée sous Windows 11 version 22H2, et non en 24H2. Si possible, privilégiez la 22H2. (Si besoin lien téléchargement : [Lien](https://lecrabeinfo.net/telecharger/windows-11-22h2-x64/))        
@@ -79,4 +81,4 @@ Cette option va nous permettre d'avoir le contrôle total sur nos partitions de 
 ![](/CC/Win11/35.png)       
 
 ---
-- [Le Laboratoire 🔬](/Docs.md)
+- [Le Laboratoire Informatique🔬](/Docs.md)
